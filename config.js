@@ -11,11 +11,11 @@ global.video = '' ;
 global.blockJids = process.env.BLOCK_JID ||'120363023983262391@g.us' ;
 global.allowJids = process.env.ALLOW_JID ||'120363022922797633@g.us' ;
 global.email = 'samsamsun789@gmail.com' ;
-global.location = 'Nairobi kenya;
-global.timezone  = process.env.TIME_ZONE || 'Nairobi/ kenya'
+global.location = 'Nairobi/kenya;
+global.timezone  = process.env.TIME_ZONE || 'Nairobi/kenya'
 global.gurl = 'https://youtube.com/c/SuhailTechInfo' ; // add your username
 global.sudo =  process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : '254727840155'; ;
-global.devs = "923184474176"; //Dont change it From here
+global.devs = "254727840155"; //Dont change it From here
 global.github  = process.env.YOUR_GITHUB || 'https://github.com/SuhailTechInfo/Suhail-Md';
 global.scan  = process.env.QR_URL || 'https://replit.com/@SuhailTechInfo/Suhail-Md?v=1';
 global.website = 'https://github.com/SuhailTechInfo/Suhail-Md' ; //wa.me/+923000000000
